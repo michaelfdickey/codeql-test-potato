@@ -1,1 +1,3 @@
 # codeql-test-potato
+
+update
